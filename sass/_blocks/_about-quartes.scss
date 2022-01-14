@@ -1,0 +1,54 @@
+.quartes__box{
+  padding: 0 86px 168px;
+}
+
+.quartes__title{
+  font-family: "Fraunces" , "Verdana" , sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 32px;
+  color: #83888F;
+  margin: 0 0 72px;
+}
+
+.quartes__list{
+  display: flex;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+.quartes__item{
+  margin-right: 108px;
+}
+
+.quartes__img{
+  margin-bottom: 46px;
+}
+
+.quartes__subtitle{
+  font-family: "Fraunces" , "Verdana" , sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 36px;
+  color: #333D4B;
+  margin: 0;
+  margin-bottom: 24px;
+}
+
+.quartes__sublink,.quartes__link{
+  font-family: "Barlow" , "Verdana" , sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  text-decoration: none;
+  line-height: 26px;
+  color: #333D4B;
+  margin: 0;
+}
+
+.quartes__link{
+  text-decoration: none;
+}

@@ -1,0 +1,45 @@
+.quality__box{
+  position: relative;
+  flex-direction: row-reverse;
+  background-image: url("/images/quality_bck.jpg");
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  padding: 100px 85px 180px;
+}
+
+.quality__imag{
+  position: absolute;
+  top: -90px;
+  right: 85px;
+  border-radius: 10px;
+}
+
+.quality__textbox{
+  margin-right: 115px;
+}
+
+.quality__title{
+  font-family: "Fraunces" , "Verdana" , sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 48px;
+  color: #FEFCF7;
+  margin: 0;
+  margin-bottom: 32px;
+}
+
+.quality__packet{
+  width: 540px;
+}
+
+.quality__text{
+  font-family: "Barlow" , "Verdana" , sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #FEFCF7;
+  opacity: 0.8;
+  margin: 0;
+}

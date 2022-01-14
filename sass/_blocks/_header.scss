@@ -1,0 +1,48 @@
+.header__box{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.nav__list{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0;
+  margin: 0;
+}
+
+.nav__item{
+  margin-right: 33px;
+}
+
+.nav__item:nth-child(3){
+  margin-right: 0;
+}
+
+.nav__link{
+  text-decoration: none;
+  margin: 0;
+}
+
+.nav__title{
+  font-family: "Barlow" , "Arial" , sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: 0.923077px;
+  color: #83888F;
+  margin: 50px 0;
+  
+  &:hover{
+    color: #333D4B;
+  }
+  
+}
